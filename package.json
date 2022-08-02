@@ -1,4 +1,10 @@
 {
+  "version": "1.0.0",
+  "author": {
+    "email": "lazyknight223@gmail.com",
+    "name": "LazyKnight"
+  },
+  "license": "MIT",
   "scripts": {
     "test": "npx hardhat text",
     "compile": "npx hardhat compile",
